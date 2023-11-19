@@ -43,7 +43,7 @@
             ],
             "name": "simply-shorten",
             "sources": [
-                "https://github.com/truecharts/charts/tree/master/charts/stable/simply-shorten",
+                "https://github.com/jasmeralia/charts/tree/master/charts/stable/simply-shorten",
                 "https://gitlab.com/draganczukp/simply-shorten"
             ],
             "type": "application",
